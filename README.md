@@ -230,22 +230,3 @@ curl -X POST "http://127.0.0.1:8000/summarize" \
   "summary": "You spent ₹12,300 on food in September, mostly through Swiggy and Zomato."
 }
 ```
-
-## Submission
-
-This project is submitted as a Git repository with clear commit history. To submit:
-
-1. Create a GitHub repository.
-2. Push your code:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: AI Financial Data Assistant"
-   git remote add origin <your-repo-url>
-   git push -u origin main
-   ```
-3. Share the repository link.
-
-## Contact
-
-For queries, contact the assignment providers.
